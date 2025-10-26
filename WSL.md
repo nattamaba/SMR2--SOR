@@ -1,6 +1,5 @@
 ```mermaid
 flowchart TD
-    %% Diagrama de instalación de WSL en Window
 
     A[Abrir PowerShell o Terminal<br>como administrador]
       --> B[Ejecutar:<br><code>wsl --install</code>]
@@ -14,4 +13,4 @@ flowchart TD
     H --> I[Abrir la distro instalada y terminar la configuración]
 
     %% Opcional: Puedes añadir estilos personalizados si lo deseas
-´´´
+```
