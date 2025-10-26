@@ -1,4 +1,5 @@
 # SMR2--SOR
+```mermaid
 flowchart TD
     A[Ir a la página oficial de Balena Etcher] --> B{¿Qué sistema operativo usas?}
     B -->|Windows| C[Haz clic en 'Download for Windows']
@@ -9,3 +10,4 @@ flowchart TD
     E --> F
     F --> G[Abrir el archivo descargado]
     G --> H[Instalar Balena Etcher siguiendo las instrucciones en pantalla]
+```
